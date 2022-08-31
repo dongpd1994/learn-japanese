@@ -85,15 +85,15 @@ export const Home = () => {
         if (mode === MODE_CHECK.JP) {
           return (<>
             <div className='hiragana-item'>
-              <span className='hiragana-k'>{i + 1} - {_.get(e, "v")}</span>
-              {finishCheckFlag && <span className='hiragana-v'>{_.get(e, "k")}</span>}
+              <div className='hiragana-k'>{i + 1} - {_.get(e, "v")}</div>
+              {finishCheckFlag && <><hr /><div className='hiragana-v'>{_.get(e, "k")}</div></>}
             </div>
           </>)
         }
         return (<>
           <div className='hiragana-item'>
-            <span className='hiragana-k'>{i + 1} - {_.get(e, "k")}</span>
-            {finishCheckFlag && <span className='hiragana-v'>{_.get(e, "v")}</span>}
+            <div className='hiragana-k'>{i + 1} - {_.get(e, "k")}</div>
+            {finishCheckFlag && <><hr /><div className='hiragana-v'>{_.get(e, "v")}</div></>}
           </div>
         </>)
       })}
@@ -172,8 +172,8 @@ export const Home = () => {
             setShowNumber(parseInt(v.target.value, 10) > Object.keys(source).length ? Object.keys(source).length : parseInt(v.target.value, 10))
           }} />
         <div className='refresh-button'>
-          <Button onClick={generateCheck} color="primary" style={{marginRight: "30px" }}>Start Check</Button>
-          <Button onClick={resultCheck} color="success" style={{marginRight: "30px" }}>Result</Button>
+          <Button onClick={generateCheck} color="primary" style={{ marginRight: "30px" }}>Start Check</Button>
+          <Button onClick={resultCheck} color="success" style={{ marginRight: "30px" }}>Result</Button>
           {renderMode()}
         </div>
         <div className='text-check'>
