@@ -116,18 +116,6 @@ export const Home = () => {
               }
             </div>
           </>)
-        } else if (mode === MODE_CHECK.SPELLING) {
-          return (<>
-            <div className='hiragana-item'>
-              <span className='hiragana-k'>{i + 1} - {_.get(e, "s")} {_.get(e, "o_s") ? ` (${_.get(e, "o_s")})` : ""}</span>
-              {finishCheckFlag && <span className='hiragana-v'>
-                <div>{_.get(e, "j")} {_.get(e, "o_j") ? ` (${_.get(e, "o_j")})` : ""}</div>
-                <hr />
-                <div className='hiragana-v'>{_.get(e, "t")}</div>
-              </span>
-              }
-            </div>
-          </>)
         } else {
           return (<>
             <div className='hiragana-item'>
@@ -148,13 +136,15 @@ export const Home = () => {
 
   const renderMode = () => {
     return <>
-      <ButtonGroup>
+      <ButtonGroup className='mode-check'>
         <Button color='primary' outline onClick={() => { setMode(MODE_CHECK.JP) }} active={mode === MODE_CHECK.JP}>
           JP
         </Button>
-        <Button color='primary' outline onClick={() => { setMode(MODE_CHECK.SPELLING) }} active={mode === MODE_CHECK.SPELLING}>
-          Spelling
-        </Button>
+        {(rSelected === LESSION_JP.HIRAGANA_ABC.key || rSelected === LESSION_JP.KATAKANA_ABC.key) &&
+          <Button color='primary' outline onClick={() => { setMode(MODE_CHECK.SPELLING) }} active={mode === MODE_CHECK.SPELLING}>
+            Spelling
+          </Button>
+        }
         {
           !(rSelected === LESSION_JP.HIRAGANA_ABC.key || rSelected === LESSION_JP.KATAKANA_ABC.key) &&
           <Button color='primary' outline onClick={() => { setMode(MODE_CHECK.VIETNAM) }} active={mode === MODE_CHECK.VIETNAM}>
@@ -182,8 +172,8 @@ export const Home = () => {
             setShowNumber(parseInt(v.target.value, 10) > Object.keys(source).length ? Object.keys(source).length : parseInt(v.target.value, 10))
           }} />
         <div className='refresh-button'>
-          <Button onClick={generateCheck} color="primary">Start Check</Button>
-          <Button onClick={resultCheck} color="success" style={{ marginLeft: "30px", marginRight: "30px" }}>Result</Button>
+          <Button onClick={generateCheck} color="primary" style={{marginRight: "30px" }}>Start Check</Button>
+          <Button onClick={resultCheck} color="success" style={{marginRight: "30px" }}>Result</Button>
           {renderMode()}
         </div>
         <div className='text-check'>
