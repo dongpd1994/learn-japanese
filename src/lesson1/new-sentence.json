@@ -1,0 +1,42 @@
+{
+  "sentence_1": {
+    "jp": "はじめまして",
+    "kanji": "初めまして",
+    "spelling": "hazimemashite",
+    "translate_vn": "Rất hân hạnh được gặp bạn."
+  },
+  "sentence_2": {
+    "jp": "〜　からきました。",
+    "kanji": "〜　から来ました。",
+    "spelling": "karakimashita",
+    "translate_vn": "Tôi đến từ ~"
+  },
+  "sentence_3": {
+    "jp": "よろしく。",
+    "other": {
+      "jp": "どおぞ　よろしく　おねがいします。",
+      "kanji": "どおぞ　よろしく　お願いします。",
+      "spelling": "doozo yoroshiku onegaishimasu"
+    },
+    "spelling": "yoroshiku",
+    "translate_vn": "Rất vui khi được làm quen với bạn."
+  },
+  "sentence_4": {
+    "jp": "しれいですが　。。。",
+    "kanji": "失礼ですが　。。。",
+    "spelling": "shireidesuga",
+    "translate_vn": "Xin lỗi ..."
+  },
+  "sentence_5": {
+    "jp": "おなまえは？",
+    "kanji": "お名前は？",
+    "spelling": "onamaewa",
+    "translate_vn": "Tên bạn là gì?"
+  },
+  "sentence_6": {
+    "jp": "こちらは　〜　さんです。",
+    "kanji": "お名前は？",
+    "spelling": "kochirawa ~ sandesu",
+    "translate_vn": "Đây là anh/chị/ông/bà ..."
+  }
+}

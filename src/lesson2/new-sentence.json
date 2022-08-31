@@ -1,0 +1,59 @@
+{
+  "sentence_1": {
+    "jp": "あのう",
+    "spelling": "anou",
+    "translate_vn": "à, ờ"
+  },
+  "sentence_2": {
+    "jp": "えっ",
+    "spelling": "e",
+    "translate_vn": "hả ?"
+  },
+  "sentence_3": {
+    "jp": "どうぞ",
+    "spelling": "douzo",
+    "translate_vn": "xin mời"
+  },
+  "sentence_4": {
+    "jp": "ありがとう",
+    "other": {
+      "jp": "どうもありがとうございます",
+      "spelling": "doumo arigatougozaimasu",
+      "translate_vn": "xin chân thành cảm ơn"
+    },
+    "spelling": "arigatou",
+    "translate_vn": "cảm ơn"
+  },
+  "sentence_5": {
+    "jp": "そうですか",
+    "spelling": "soudesuka",
+    "translate_vn": "Thế à."
+  },
+  "sentence_6": {
+    "jp": "ちがいます",
+    "kanji": "違います",
+    "spelling": "chigaimasu",
+    "translate_vn": "không phải"
+  },
+  "sentence_7": {
+    "jp": "あ",
+    "spelling": "a",
+    "translate_vn": "ôi"
+  },
+  "sentence_8": {
+    "jp": "これからおせわになります。",
+    "kanji": "これからお世話になります。",
+    "spelling": "korekara o sewa ni narimasu",
+    "translate_vn": "Từ nay rất mong được sự giúp đỡ của bạn."
+  },
+  "sentence_9": {
+    "jp": "こちらこそよろしく。",
+    "other": {
+      "jp": "こちらこそどうぞよろしくおねがいします。",
+      "kanji": "こちらこそどうぞよろしくお願いします。",
+      "spelling": "kochira koso douzo yoroshiku onegai shimasu"
+    },
+    "spelling": "kochira koso yoroshiku",
+    "translate_vn": "Chính tôi mới là người mong được sự giúp đỡ của bạn."
+  }
+}

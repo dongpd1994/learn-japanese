@@ -1,0 +1,197 @@
+{
+  "word_1": {
+    "jp": "これ",
+    "spelling": "kore",
+    "translate_vn": "cái này, đây (vật gần người nói)"
+  },
+  "word_2": {
+    "jp": "それ",
+    "spelling": "sore",
+    "translate_vn": "cái đó (vật gần người nghe)"
+  },
+  "word_3": {
+    "jp": "あれ",
+    "spelling": "are",
+    "translate_vn": "cái kia (vật xa cả 2 người nói và nghe)"
+  },
+  "word_4": {
+    "jp": "この　〜",
+    "spelling": "kono",
+    "translate_vn": "~ này (gần người nói)"
+  },
+  "word_5": {
+    "jp": "その　〜",
+    "spelling": "soro",
+    "translate_vn": "~ đó (gần người nghe)"
+  },
+  "word_6": {
+    "jp": "あの　〜",
+    "spelling": "ano",
+    "translate_vn": "~ kia (xa cả người nói và nghe)"
+  },
+  "word_7": {
+    "jp": "ほん",
+    "kanji": "本",
+    "spelling": "hon",
+    "translate_vn": "sách"
+  },
+  "word_8": {
+    "jp": "じしょ",
+    "kanji": "辞書",
+    "spelling": "jisho",
+    "translate_vn": "từ điển"
+  },
+  "word_9": {
+    "jp": "ざっし",
+    "kanji": "雑誌",
+    "spelling": "zasshi",
+    "translate_vn": "tạp chí"
+  },
+  "word_10": {
+    "jp": "しんぶん",
+    "kanji": "新聞",
+    "spelling": "shinbun",
+    "translate_vn": "báo"
+  },
+  "word_11": {
+    "jp": "ノート",
+    "spelling": "nooto",
+    "translate_vn": "vở"
+  },
+  "word_12": {
+    "jp": "てちょう",
+    "kanji": "手帳",
+    "spelling": "techou",
+    "translate_vn": "sổ tay"
+  },
+  "word_13": {
+    "jp": "めいし",
+    "kanji": "名刺",
+    "spelling": "meishi",
+    "translate_vn": "danh thiếp"
+  },
+  "word_14": {
+    "jp": "カード",
+    "spelling": "kaado",
+    "translate_vn": "thẻ, các, cạc"
+  },
+  "word_15": {
+    "jp": "えんぴつ",
+    "kanji": "鉛筆",
+    "spelling": "enpitsu",
+    "translate_vn": "bút chì"
+  },
+  "word_16": {
+    "jp": "ボールペン",
+    "spelling": "boorupen",
+    "translate_vn": "bút bi"
+  },
+  "word_17": {
+    "jp": "シャープペンシル",
+    "spelling": "shaapuponshiru",
+    "translate_vn": "bút chì kim"
+  },
+  "word_18": {
+    "jp": "かぎ",
+    "spelling": "kagi",
+    "translate_vn": "chìa khoá"
+  },
+  "word_19": {
+    "jp": "とけい",
+    "kanji": "時計",
+    "spelling": "tokei",
+    "translate_vn": "đồng hồ"
+  },
+  "word_20": {
+    "jp": "かさ",
+    "kanji": "傘",
+    "spelling": "kasha",
+    "translate_vn": "ô, dù"
+  },
+  "word_21": {
+    "jp": "かばん",
+    "spelling": "kaban",
+    "translate_vn": "cặp sách, túi sách"
+  },
+  "word_22": {
+    "jp": "テレビ",
+    "spelling": "terebi",
+    "translate_vn": "tivi"
+  },
+  "word_23": {
+    "jp": "ラジオ",
+    "spelling": "rajio",
+    "translate_vn": "radio"
+  },
+  "word_24": {
+    "jp": "カメラ",
+    "spelling": "kamera",
+    "translate_vn": "máy ảnh"
+  },
+  "word_25": {
+    "jp": "コンピューター",
+    "spelling": "konpyootaa",
+    "translate_vn": "máy vi tính"
+  },
+  "word_26": {
+    "jp": "くるま",
+    "kanji": "車",
+    "spelling": "kuruma",
+    "translate_vn": "ô tô con"
+  },
+  "word_27": {
+    "jp": "つくえ",
+    "kanji": "机",
+    "spelling": "tsukue",
+    "translate_vn": "bàn"
+  },
+  "word_28": {
+    "jp": "いす",
+    "spelling": "isu",
+    "translate_vn": "ghế"
+  },
+  "word_29": {
+    "jp": "チョコレート",
+    "spelling": "chokoreeto",
+    "translate_vn": "sô cô la"
+  },
+  "word_30": {
+    "jp": "コーヒー",
+    "spelling": "koohii",
+    "translate_vn": "cà phê"
+  },
+  "word_32": {
+    "jp": "おみやげ",
+    "kanji": "お土産",
+    "spelling": "omiyage",
+    "translate_vn": "quà ( mua ở xa mang về )"
+  },
+  "word_33": {
+    "jp": "えいご",
+    "kanji": "英語",
+    "spelling": "eigo",
+    "translate_vn": "tiếng Anh"
+  },
+  "word_34": {
+    "jp": "にほんご",
+    "kanji": "日本語",
+    "spelling": "nihongo",
+    "translate_vn": "tiếng Nhật"
+  },
+  "word_35": {
+    "jp": "〜　ご",
+    "spelling": "go",
+    "translate_vn": "tiếng ~"
+  },
+  "word_36": {
+    "jp": "なん",
+    "kanji": "何",
+    "spelling": "nan",
+    "translate_vn": "gì, cái gì"
+  },
+  "word_37": {
+    "jp": "そう",
+    "spelling": "sou",
+    "translate_vn": "đúng vậy"
+  }
+}

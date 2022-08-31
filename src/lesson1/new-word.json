@@ -1,0 +1,133 @@
+{
+  "word_1": {
+    "jp": "わたし",
+    "spelling": "watashi",
+    "translate_vn": "tôi"
+  },
+  "word_2": {
+    "jp": "あなた",
+    "spelling": "anata",
+    "translate_vn": "bạn (anh, chị, ông, bà - ngôi thứ 2 số ít)"
+  },
+  "word_3": {
+    "jp": "あのひと",
+    "kanji": "あの人",
+    "other": {
+      "jp": "あのかた",
+      "spelling": "anokata",
+      "kanji": "あの方"
+    },
+    "spelling": "anohito",
+    "translate_vn": "người kia, người đó"
+  },
+  "word_4": {
+    "jp": "〜　さん",
+    "spelling": "san",
+    "translate_vn": "anh, chị, ông, bà (sau tên người)"
+  },
+  "word_5": {
+    "jp": "〜　ちゃん",
+    "spelling": "chan",
+    "translate_vn": "hậu tố sau tên bé gái"
+  },
+  "word_6": {
+    "jp": "〜　じん",
+    "spelling": "zin",
+    "translate_vn": "hậu tố mang ý nghĩa \"người\""
+  },
+  "word_7": {
+    "jp": "せんせい",
+    "kanji": "先生",
+    "spelling": "sensei",
+    "translate_vn": "thầy, cô"
+  },
+  "word_8": {
+    "jp": "きょおし",
+    "kanji": "教師",
+    "spelling": "kyooshi",
+    "translate_vn": "giáo viên ( nghề nghiệp )"
+  },
+  "word_9": {
+    "jp": "がくせい",
+    "kanji": "学生",
+    "spelling": "gakusei",
+    "translate_vn": "học sinh, sinh viên"
+  },
+  "word_10": {
+    "jp": "かいしゃいん",
+    "kanji": "会社員",
+    "spelling": "kaishain",
+    "translate_vn": "nhân viên công ty ( nghề nghiệp )"
+  },
+  "word_11": {
+    "jp": "しゃいん",
+    "kanji": "社員",
+    "spelling": "shain",
+    "translate_vn": "nhân viên của công ty (tên công ty nào đó)"
+  },
+  "word_12": {
+    "jp": "ぎんこういん",
+    "kanji": "銀行員",
+    "spelling": "ginkouin",
+    "translate_vn": "nhân viên ngân hàng ( nghề nghiệp )"
+  },
+  "word_13": {
+    "jp": "いしゃ",
+    "kanji": "医者",
+    "spelling": "isha",
+    "translate_vn": "bác sĩ (nghề nghiệp )"
+  },
+  "word_14": {
+    "jp": "けんきゅうしゃ",
+    "kanji": "研究者",
+    "spelling": "kenkyuusha",
+    "translate_vn": "nhà nghiên cứu ( nghề nghiệp )"
+  },
+  "word_15": {
+    "jp": "だいがく",
+    "kanji": "大学",
+    "spelling": "daigaku",
+    "translate_vn": "trường đại học"
+  },
+  "word_16": {
+    "jp": "びょおいん",
+    "kanji": "病院",
+    "spelling": "byooin",
+    "translate_vn": "bệnh viện"
+  },
+  "word_17": {
+    "jp": "だれ",
+    "other": {
+      "jp": "どなた",
+      "spelling": "donata"
+    },
+    "spelling": "dare",
+    "translate_vn": "ai"
+  },
+  "word_18": {
+    "jp": "〜　さい",
+    "kanji": "〜　歳",
+    "spelling": "sai",
+    "translate_vn": "tuổi"
+  },
+  "word_19": {
+    "jp": "なんさい",
+    "kanji": "何歳",
+    "other": {
+      "jp": "おいくつ",
+      "spelling": "oikutsu"
+    },
+    "spelling": "nansai",
+    "translate_vn": "bao nhiêu tuổi ?"
+  },
+  "word_20": {
+    "jp": "はい",
+    "spelling": "hai",
+    "translate_vn": "vâng"
+  },
+  "word_21": {
+    "jp": "いいえ",
+    "spelling": "iie",
+    "translate_vn": "không"
+  }
+}
