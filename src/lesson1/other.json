@@ -1,58 +1,58 @@
 {
-  "other_1": {
+  "other_1_1": {
     "jp": "アメリカ",
     "spelling": "amerika",
     "translate_vn": "nước Mỹ"
   },
-  "other_2": {
+  "other_1_2": {
     "jp": "イギリス",
     "spelling": "igirisu",
     "translate_vn": "nước Anh"
   },
-  "other_3": {
+  "other_1_3": {
     "jp": "インド",
     "spelling": "indo",
     "translate_vn": "Ấn Độ"
   },
-  "other_4": {
+  "other_1_4": {
     "jp": "インドネシア",
     "spelling": "indoneshia",
     "translate_vn": "Indonesia"
   },
-  "other_5": {
+  "other_1_5": {
     "jp": "かんこく",
     "kanji": "韓国",
     "spelling": "kankoku",
     "translate_vn": "Hàn Quốc"
   },
-  "other_6": {
+  "other_1_6": {
     "jp": "タイ",
     "spelling": "tai",
     "translate_vn": "Thái Lan"
   },
-  "other_7": {
+  "other_1_7": {
     "jp": "ちゅうごく",
     "kanji": "中国",
     "spelling": "chuugoku",
     "translate_vn": "Trung Quốc"
   },
-  "other_8": {
+  "other_1_8": {
     "jp": "ドイツ",
     "spelling": "doitsu",
     "translate_vn": "Đức"
   },
-  "other_9": {
+  "other_1_9": {
     "jp": "にほん",
     "kanji": "日本",
     "spelling": "nihon",
     "translate_vn": "Nhật Bản"
   },
-  "other_10": {
+  "other_1_10": {
     "jp": "ブラジル",
     "spelling": "buraziru",
     "translate_vn": "Brazin"
   },
-  "other_11": {
+  "other_1_11": {
     "jp": "ベトナム",
     "spelling": "betonamu",
     "translate_vn": "Việt Nam"

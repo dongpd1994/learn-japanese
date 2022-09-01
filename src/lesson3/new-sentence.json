@@ -1,0 +1,42 @@
+{
+  "sentence_3_1": {
+    "jp": "すみません",
+    "spelling": "sumimasen",
+    "translate_vn": "xin lỗi"
+  },
+  "sentence_3_2": {
+    "jp": "どうも",
+    "spelling": "doumo",
+    "translate_vn": "Cám ơn"
+  },
+  "sentence_3_3": {
+    "jp": "いらっしゃいませ",
+    "spelling": "irasshaimase",
+    "translate_vn": "Xin chào quý khách, mời quý khách vào."
+  },
+  "sentence_3_4": {
+    "jp": "みせてください",
+    "other": {
+      "jp": "〜　をみせてください",
+      "kanji": "〜　を見せてください",
+      "spelling": "wo misetekudasai"
+    },
+    "kanji": "見せてください",
+    "spelling": "misetekudasai",
+    "translate_vn": "Cho tôi xem ~"
+  },
+  "sentence_3_5": {
+    "jp": "じゃ",
+    "spelling": "sha",
+    "translate_vn": "Thế thì, vậy thì"
+  },
+  "sentence_3_6": {
+    "jp": "ください",
+    "other": {
+      "jp": "〜　をください",
+      "spelling": "wo kudasai"
+    },
+    "spelling": "kudasai",
+    "translate_vn": "Cho tôi ~"
+  }
+}

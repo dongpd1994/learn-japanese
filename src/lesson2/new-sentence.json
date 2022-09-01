@@ -1,20 +1,20 @@
 {
-  "sentence_1": {
+  "sentence_2_1": {
     "jp": "あのう",
     "spelling": "anou",
     "translate_vn": "à, ờ"
   },
-  "sentence_2": {
+  "sentence_2_2": {
     "jp": "えっ",
     "spelling": "e",
     "translate_vn": "hả ?"
   },
-  "sentence_3": {
+  "sentence_2_3": {
     "jp": "どうぞ",
     "spelling": "douzo",
     "translate_vn": "xin mời"
   },
-  "sentence_4": {
+  "sentence_2_4": {
     "jp": "ありがとう",
     "other": {
       "jp": "どうもありがとうございます",
@@ -24,29 +24,29 @@
     "spelling": "arigatou",
     "translate_vn": "cảm ơn"
   },
-  "sentence_5": {
+  "sentence_2_5": {
     "jp": "そうですか",
     "spelling": "soudesuka",
     "translate_vn": "Thế à."
   },
-  "sentence_6": {
+  "sentence_2_6": {
     "jp": "ちがいます",
     "kanji": "違います",
     "spelling": "chigaimasu",
     "translate_vn": "không phải"
   },
-  "sentence_7": {
+  "sentence_2_7": {
     "jp": "あ",
     "spelling": "a",
     "translate_vn": "ôi"
   },
-  "sentence_8": {
+  "sentence_2_8": {
     "jp": "これからおせわになります。",
     "kanji": "これからお世話になります。",
     "spelling": "korekara o sewa ni narimasu",
     "translate_vn": "Từ nay rất mong được sự giúp đỡ của bạn."
   },
-  "sentence_9": {
+  "sentence_2_9": {
     "jp": "こちらこそよろしく。",
     "other": {
       "jp": "こちらこそどうぞよろしくおねがいします。",

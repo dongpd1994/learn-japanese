@@ -1,0 +1,208 @@
+{
+  "word_3_1": {
+    "jp": "ここ",
+    "spelling": "koko",
+    "translate_vn": "chỗ này, đằng này, đây (gần người nói)"
+  },
+  "word_3_2": {
+    "jp": "そこ",
+    "spelling": "soko",
+    "translate_vn": "chỗ đó, đó (gần người nghe)"
+  },
+  "word_3_3": {
+    "jp": "あそこ",
+    "spelling": "asoko",
+    "translate_vn": "chỗ kia, đằng kia, kia (xa cả người nói và nghe)"
+  },
+  "word_3_4": {
+    "jp": "どこ",
+    "spelling": "doko",
+    "translate_vn": "chỗ nào, đâu"
+  },
+  "word_3_5": {
+    "jp": "こちら",
+    "spelling": "kochira",
+    "translate_vn": "phía này, đằng này, chỗ này (lịch sự)"
+  },
+  "word_3_6": {
+    "jp": "そちら",
+    "spelling": "sochira",
+    "translate_vn": "phía đó, đằng đó, chỗ đó (lịch sự)"
+  },
+  "word_3_7": {
+    "jp": "あちこ",
+    "spelling": "achira",
+    "translate_vn": "phía kia, đằng kia, chỗ kia (lịch sự)"
+  },
+  "word_3_8": {
+    "jp": "どちら",
+    "spelling": "dochira",
+    "translate_vn": "phía nào, đằng nào, chỗ nào (lịch sự)"
+  },
+  "word_3_9": {
+    "jp": "きょうしつ",
+    "kanji": "教室",
+    "spelling": "kyoushitsu",
+    "translate_vn": "lớp học, phòng học"
+  },
+  "word_3_10": {
+    "jp": "しょくどう",
+    "kanji": "食堂",
+    "spelling": "shokudou",
+    "translate_vn": "nhà ăn"
+  },
+  "word_3_11": {
+    "jp": "じむしょ",
+    "kanji": "事務所",
+    "spelling": "jimusho",
+    "translate_vn": "văn phòng"
+  },
+  "word_3_12": {
+    "jp": "かいぎしつ",
+    "kanji": "会議室",
+    "spelling": "kaigishitsu",
+    "translate_vn": "phòng họp"
+  },
+  "word_3_13": {
+    "jp": "うけつけ",
+    "kanji": "受付",
+    "spelling": "uketsuke",
+    "translate_vn": "quầy lễ tân, phòng thường trực"
+  },
+  "word_3_14": {
+    "jp": "ロビー",
+    "spelling": "robii",
+    "translate_vn": "hành lang, đại sảnh"
+  },
+  "word_3_15": {
+    "jp": "へや",
+    "kanji": "部屋",
+    "spelling": "kuya",
+    "translate_vn": "căn phòng"
+  },
+  "word_3_16": {
+    "jp": "トイレ",
+    "other": {
+      "jp": "おてあらい",
+      "kanji": "お手洗い",
+      "spelling": "otearai"
+    },
+    "spelling": "toire",
+    "translate_vn": "phòng vệ sinh"
+  },
+  "word_3_17": {
+    "jp": "かいだん",
+    "kanji": "階段",
+    "spelling": "kaidan",
+    "translate_vn": "cầu thang"
+  },
+  "word_3_18": {
+    "jp": "エレベーター",
+    "spelling": "erebeetaa",
+    "translate_vn": "thang máy"
+  },
+  "word_3_19": {
+    "jp": "エスカレーター",
+    "spelling": "esukareetaa",
+    "translate_vn": "thang cuốn"
+  },
+  "word_3_20": {
+    "jp": "じどうはんばいき",
+    "kanji": "自動販売機",
+    "spelling": "jidouhanbaiki",
+    "translate_vn": "máy bán hàng tự động"
+  },
+  "word_3_21": {
+    "jp": "でんわ",
+    "kanji": "電話",
+    "spelling": "denwa",
+    "translate_vn": "điện thoại"
+  },
+  "word_3_22": {
+    "jp": "おくに",
+    "kanji": "お国",
+    "spelling": "okuni",
+    "translate_vn": "nước ( của bạn, anh chị )"
+  },
+  "word_3_23": {
+    "jp": "かいしゃ",
+    "kanji": "会社",
+    "spelling": "kaisha",
+    "translate_vn": "công ty"
+  },
+  "word_3_24": {
+    "jp": "うち",
+    "spelling": "uchi",
+    "translate_vn": "nhà"
+  },
+  "word_3_25": {
+    "jp": "くつ",
+    "kanji": "靴",
+    "spelling": "kutsu",
+    "translate_vn": "giày"
+  },
+  "word_3_26": {
+    "jp": "ネクタイ",
+    "spelling": "nekutai",
+    "translate_vn": "cà vạt"
+  },
+  "word_3_27": {
+    "jp": "ワイン",
+    "kanji": "本",
+    "spelling": "wain",
+    "translate_vn": "rượu vang"
+  },
+  "word_3_28": {
+    "jp": "うりば",
+    "kanji": "売り場",
+    "spelling": "uriba",
+    "translate_vn": "quầy bán"
+  },
+  "word_3_29": {
+    "jp": "ちか",
+    "kanji": "地下",
+    "spelling": "chika",
+    "translate_vn": "tầng hầm"
+  },
+  "word_3_30": {
+    "jp": "〜　かい",
+    "kanji": "〜　階",
+    "spelling": "kai",
+    "translate_vn": "tầng thứ -"
+  },
+  "word_3_31": {
+    "jp": "なんがい",
+    "kanji": "何階",
+    "spelling": "nangai",
+    "translate_vn": "tầng mấy"
+  },
+  "word_3_32": {
+    "jp": "〜　えん",
+    "kanji": "〜　円",
+    "spelling": "en",
+    "translate_vn": "yên (tiền tệ)"
+  },
+  "word_3_33": {
+    "jp": "いくら",
+    "spelling": "ikura",
+    "translate_vn": "bao nhiêu tiền"
+  },
+  "word_3_34": {
+    "jp": "ひゃく",
+    "kanji": "百",
+    "spelling": "hyaku",
+    "translate_vn": "trăm"
+  },
+  "word_3_35": {
+    "jp": "せん",
+    "kanji": "千",
+    "spelling": "sen",
+    "translate_vn": "nghìn"
+  },
+  "word_3_36": {
+    "jp": "まん",
+    "kanji": "万",
+    "spelling": "man",
+    "translate_vn": "vạn"
+  }
+}

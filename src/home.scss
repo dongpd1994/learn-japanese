@@ -4,9 +4,17 @@ Main page styles
 
 .input-show-number {
   width: 30%;
-  margin-bottom: 30px;
 }
 
+@media only screen and (max-width: 600px) {
+  .input-show-number {
+    width: 50%;
+  }
+}
+
+.mb-custom {
+  margin-bottom: 15px;
+}
 .refresh-button {
   margin-bottom: 30px;
 }
@@ -36,7 +44,7 @@ Main page styles
 }
 
 @media only screen and (max-width: 600px) {
-.mode-check{
-  margin-top: 10px;
-}
+  .mode-check {
+    margin-top: 10px;
+  }
 }
