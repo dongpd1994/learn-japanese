@@ -16,6 +16,7 @@ export const Home = () => {
   // const account = useAppSelector(state => state.authentication.account);
   const [source, setSource] = useState<any>(LESSION_JP.ALPHABET.HIRAGANA_ABC.source);
   const [showNumber, setShowNumber] = useState(5);
+  const [inputSearch, setInputSearch] = useState("");
   const [data, setData] = useState<any>([]);
   const [finishCheckFlag, setFinishCheckFlag] = useState(false);
   const [mode, setMode] = useState<MODE_CHECK>(MODE_CHECK.JP);
@@ -23,6 +24,7 @@ export const Home = () => {
   const [dropdownOpen, setDropdownOpen] = useState(false);
   const [titleDropdown, setTitleDropdown] = useState(LESSION_JP.ALPHABET.HIRAGANA_ABC.title);
   const [maxInput, setMaxInput] = useState(Object.keys(LESSION_JP.ALPHABET.HIRAGANA_ABC.source).length);
+  const [searchResult, setSearchResult] = useState(null)
 
   const generateCheck = () => {
     const va = (document.getElementById("input-show-number") as HTMLInputElement).value
@@ -54,12 +56,14 @@ export const Home = () => {
         }
 
       }
+      setSearchResult(null)
       setFinishCheckFlag(false);
       setData(tmpData);
     }
   }
 
   const resultCheck = () => {
+    setSearchResult(null)
     setFinishCheckFlag(true)
   }
 
@@ -118,6 +122,19 @@ export const Home = () => {
     )
   }
 
+  const renderSearchResult = () => {
+    return (<>
+      <div className='hiragana-item'>
+        <span className='hiragana-k'>{_.get(searchResult, "jp")} {_.get(searchResult, "other") ? ` (${_.get(searchResult, "other.jp")})` : ""}</span>
+        <span>
+          <div className='hiragana-v'>{_.get(searchResult, "spelling")} {_.get(searchResult, "other.spelling") ? ` (${_.get(searchResult, "other.spelling")})` : ""}</div>
+          <hr />
+          <div className='hiragana-v'>{_.get(searchResult, "translate_vn")}</div>
+        </span>
+      </div>
+    </>)
+  }
+
   const renderMode = () => {
     return <>
       <ButtonGroup className='mode-check'>
@@ -139,6 +156,15 @@ export const Home = () => {
     </>
   }
 
+  const allLessonSource = () => {
+    const lesson = LESSION_JP.LESSON
+    let sourceLesson = {}
+    Object.keys(lesson).forEach(e => {
+      Object.assign(sourceLesson, _.get(lesson, e)['source'])
+    })
+    return sourceLesson
+  }
+
   const all = (type: string) => {
     setTitleDropdown(type)
     if (type === "All alphabet") {
@@ -147,11 +173,7 @@ export const Home = () => {
       setMaxInput(Object.keys(sourceAlphabet).length)
       setRSelected("AA")
     } else if (type === "All lesson") {
-      const lesson = LESSION_JP.LESSON
-      let sourceLesson = {}
-      Object.keys(lesson).forEach(e => {
-        Object.assign(sourceLesson, _.get(lesson, e)['source'])
-      })
+      const sourceLesson = allLessonSource()
       setSource(sourceLesson)
       setMaxInput(Object.keys(sourceLesson).length)
       setRSelected("AL")
@@ -209,9 +231,33 @@ export const Home = () => {
     )
   }
 
+  const search = () => {
+    const allSOurce = allLessonSource()
+    let res = null;
+    for (const key in allSOurce) {
+      if (_.get(allSOurce, `${key}.jp`) === inputSearch || _.get(allSOurce, `${key}.other.jp`) === inputSearch) {
+        res = _.get(allSOurce, `${key}`)
+      }
+    }
+    console.log(res)
+    setData([])
+    setSearchResult(res)
+  }
+
   return (
     <>
       <div>
+        <div className='mb-search-custom '>
+          <Input className='input-show-number'
+            type='text'
+            placeholder="Search..."
+            invalid={showNumber > Object.keys(source).length}
+            onChange={(v) => {
+              setInputSearch(v.target.value)
+            }} />
+          <Button onClick={search} color="primary" style={{ marginLeft: "30px" }}>Search</Button>
+        </div>
+        <hr />
         <div style={{ marginBottom: "15px" }}>
           {renderSelectLesson()}
         </div>
@@ -237,6 +283,9 @@ export const Home = () => {
         <div className='text-check'>
           {
             (rSelected === LESSION_JP.ALPHABET.HIRAGANA_ABC.key || rSelected === LESSION_JP.ALPHABET.KATAKANA_ABC.key || rSelected === "AA") ? renderABC() : renderLessionOther()
+          }
+          {
+            searchResult && renderSearchResult()
           }
         </div>
       </div>
