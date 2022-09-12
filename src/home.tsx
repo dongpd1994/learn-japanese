@@ -24,7 +24,7 @@ export const Home = () => {
   const [dropdownOpen, setDropdownOpen] = useState(false);
   const [titleDropdown, setTitleDropdown] = useState(LESSION_JP.ALPHABET.HIRAGANA_ABC.title);
   const [maxInput, setMaxInput] = useState(Object.keys(LESSION_JP.ALPHABET.HIRAGANA_ABC.source).length);
-  const [searchResult, setSearchResult] = useState(null)
+  const [searchResult, setSearchResult] = useState<any>(null)
 
   const generateCheck = () => {
     const va = (document.getElementById("input-show-number") as HTMLInputElement).value
@@ -124,14 +124,21 @@ export const Home = () => {
 
   const renderSearchResult = () => {
     return (<>
-      <div className='hiragana-item'>
-        <span className='hiragana-k'>{_.get(searchResult, "jp")} {_.get(searchResult, "other") ? ` (${_.get(searchResult, "other.jp")})` : ""}</span>
-        <span>
-          <div className='hiragana-v'>{_.get(searchResult, "spelling")} {_.get(searchResult, "other.spelling") ? ` (${_.get(searchResult, "other.spelling")})` : ""}</div>
-          <hr />
-          <div className='hiragana-v'>{_.get(searchResult, "translate_vn")}</div>
-        </span>
-      </div>
+      {
+        !_.isEmpty(searchResult) && searchResult.map((e: any, i: any) => {
+          return (
+            <div className='hiragana-item' key={"search" + i}>
+              <span className='hiragana-k'>{_.get(e, "jp")} {_.get(e, "other") ? ` (${_.get(e, "other.jp")})` : ""}</span>
+              <span>
+                <div className='hiragana-v'>{_.get(e, "spelling")} {_.get(e, "other.spelling") ? ` (${_.get(e, "other.spelling")})` : ""}</div>
+                <hr />
+                <div className='hiragana-v'>{_.get(e, "translate_vn")}</div>
+              </span>
+            </div>
+          )
+
+        })
+      }
     </>)
   }
 
@@ -233,15 +240,18 @@ export const Home = () => {
 
   const search = () => {
     const allSOurce = allLessonSource()
-    let res = null;
+    const res = [];
     for (const key in allSOurce) {
-      if (_.get(allSOurce, `${key}.jp`) === inputSearch || _.get(allSOurce, `${key}.other.jp`) === inputSearch) {
-        res = _.get(allSOurce, `${key}`)
+      if (
+        _.includes(_.get(allSOurce, `${key}.jp`), inputSearch) ||
+        _.includes(_.get(allSOurce, `${key}.other.jp`), inputSearch) ||
+        _.includes(_.get(allSOurce, `${key}.translate_vn`), inputSearch)
+      ) {
+        res.push(_.get(allSOurce, `${key}`))
       }
     }
-    console.log(res)
     setData([])
-    setSearchResult(res)
+    setSearchResult(_.isEmpty(res) ? null : res)
   }
 
   return (

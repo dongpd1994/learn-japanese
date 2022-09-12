@@ -1,0 +1,280 @@
+{
+  "word_4_1": {
+    "jp": "おきます",
+    "kanji": "起きます",
+    "spelling": "okimasu",
+    "translate_vn": "dậy, thức dậy"
+  },
+  "word_4_2": {
+    "jp": "ねます",
+    "kanji": "寝ます",
+    "spelling": "nemasu",
+    "translate_vn": "ngủ, đi ngủ"
+  },
+  "word_4_3": {
+    "jp": "はたらきます",
+    "kanji": "働きます",
+    "spelling": "hatarakimasu",
+    "translate_vn": "làm việc"
+  },
+  "word_4_4": {
+    "jp": "やすみます",
+    "kanji": "休みます",
+    "spelling": "yasumimasu",
+    "translate_vn": "nghỉ ngơi"
+  },
+  "word_4_5": {
+    "jp": "べんきょうします",
+    "kanji": "勉強します",
+    "spelling": "benkyoushimasu",
+    "translate_vn": "học"
+  },
+  "word_4_6": {
+    "jp": "おわります",
+    "kanji": "終わります",
+    "spelling": "owarimasu",
+    "translate_vn": "hết, kết thúc, xong"
+  },
+  "word_4_7": {
+    "jp": "デパート",
+    "spelling": "debaato",
+    "translate_vn": "bách hoá"
+  },
+  "word_4_8": {
+    "jp": "ぎんこう",
+    "kanji": "銀行",
+    "spelling": "ginkou",
+    "translate_vn": "ngân hàng"
+  },
+  "word_4_9": {
+    "jp": "ゆうびんきょく",
+    "kanji": "郵便局",
+    "spelling": "yuubinkyoku",
+    "translate_vn": "bưu điện"
+  },
+  "word_4_10": {
+    "jp": "としょかん",
+    "kanji": "図書館",
+    "spelling": "teshokan",
+    "translate_vn": "thư viện"
+  },
+  "word_4_11": {
+    "jp": "びじゅつかん",
+    "kanji": "美術館",
+    "spelling": "bijutsukan",
+    "translate_vn": "bảo tàng mỹ thuật"
+  },
+  "word_4_12": {
+    "jp": "いま",
+    "kanji": "今",
+    "spelling": "ima",
+    "translate_vn": "bây giờ"
+  },
+  "word_4_13": {
+    "jp": "じ",
+    "kanji": "時",
+    "spelling": "ji",
+    "translate_vn": "giờ"
+  },
+  "word_4_14": {
+    "jp": "ふん",
+    "kanji": "分",
+    "spelling": "fun",
+    "translate_vn": "phút"
+  },
+  "word_4_15": {
+    "jp": "はん",
+    "kanji": "半",
+    "spelling": "han",
+    "translate_vn": "rưỡi, nửa"
+  },
+  "word_4_16": {
+    "jp": "なんじ",
+    "kanji": "何時",
+    "spelling": "nanji",
+    "translate_vn": "mấy giờ"
+  },
+  "word_4_17": {
+    "jp": "なんふん",
+    "kanji": "何分",
+    "spelling": "nanfun",
+    "translate_vn": "mấy phút"
+  },
+  "word_4_18": {
+    "jp": "ごぜん",
+    "kanji": "午前",
+    "spelling": "gozen",
+    "translate_vn": "sáng (trước 12h trưa)"
+  },
+  "word_4_19": {
+    "jp": "ごご",
+    "kanji": "午後",
+    "spelling": "gogo",
+    "translate_vn": "chiều (sau 12h trưa)"
+  },
+  "word_4_20": {
+    "jp": "あさ",
+    "kanji": "朝",
+    "spelling": "asa",
+    "translate_vn": "sáng, buổi sáng"
+  },
+  "word_4_21": {
+    "jp": "ひる",
+    "kanji": "昼",
+    "spelling": "hiru",
+    "translate_vn": "trưa, buổi trưa"
+  },
+  "word_4_22": {
+    "jp": "ばん",
+    "kanji": "晩",
+    "spelling": "ban",
+    "translate_vn": "tối, buổi tối"
+  },
+  "word_4_23": {
+    "jp": "おととい",
+    "spelling": "ototoi",
+    "translate_vn": "hôm kia"
+  },
+  "word_4_24": {
+    "jp": "きのう",
+    "spelling": "kinou",
+    "translate_vn": "hôm qua"
+  },
+  "word_4_25": {
+    "jp": "きょう",
+    "spelling": "kyou",
+    "translate_vn": "hôm nay"
+  },
+  "word_4_26": {
+    "jp": "あした",
+    "spelling": "ashita",
+    "translate_vn": "ngày mai"
+  },
+  "word_4_27": {
+    "jp": "あさって",
+    "spelling": "asatte",
+    "translate_vn": "ngày kia"
+  },
+  "word_4_28": {
+    "jp": "けさ",
+    "spelling": "kesa",
+    "translate_vn": "sáng nay"
+  },
+  "word_4_29": {
+    "jp": "こんばん",
+    "kanji": "今晩",
+    "spelling": "konban",
+    "translate_vn": "tối nay"
+  },
+  "word_4_30": {
+    "jp": "やすみのひ",
+    "kanji": "休み",
+    "spelling": "yasumi",
+    "translate_vn": "nghỉ, nghỉ phép, ngày nghỉ"
+  },
+  "word_4_31": {
+    "jp": "ひるやすみ",
+    "kanji": "昼休み",
+    "spelling": "hiruyasumi",
+    "translate_vn": "nghỉ trưa"
+  },
+  "word_4_33": {
+    "jp": "まいあさ",
+    "kanji": "毎朝",
+    "spelling": "maiasa",
+    "translate_vn": "hàng sáng, mỗi sáng"
+  },
+  "word_4_34": {
+    "jp": "まいばん",
+    "kanji": "毎晩",
+    "spelling": "maiban",
+    "translate_vn": "hàng tối, mỗi tối"
+  },
+  "word_4_35": {
+    "jp": "まいにち",
+    "kanji": "毎日",
+    "spelling": "mainichi",
+    "translate_vn": "hàng ngày, mỗi ngày"
+  },
+  "word_4_36": {
+    "jp": "げつようび",
+    "kanji": "月曜日",
+    "spelling": "getsuyoubi",
+    "translate_vn": "thứ 2"
+  },
+  "word_4_37": {
+    "jp": "かようび",
+    "kanji": "火曜日",
+    "spelling": "kayoubi",
+    "translate_vn": "thứ 3"
+  },
+  "word_4_38": {
+    "jp": "すいようび",
+    "kanji": "水曜日",
+    "spelling": "suiyoubi",
+    "translate_vn": "thứ 4"
+  },
+  "word_4_39": {
+    "jp": "もくようび",
+    "kanji": "木曜日",
+    "spelling": "mokutoubi",
+    "translate_vn": "thứ 5"
+  },
+  "word_4_40": {
+    "jp": "きんようび",
+    "kanji": "金曜日",
+    "spelling": "kinyoubi",
+    "translate_vn": "thứ 6"
+  },
+  "word_4_41": {
+    "jp": "どようび",
+    "kanji": "土曜日",
+    "spelling": "deyoubi",
+    "translate_vn": "thứ 7"
+  },
+  "word_4_42": {
+    "jp": "にちようび",
+    "kanji": "日曜日",
+    "spelling": "nichiyoubi",
+    "translate_vn": "chủ nhật"
+  },
+  "word_4_43": {
+    "jp": "なんようび",
+    "kanji": "何曜日",
+    "spelling": "nanyoubi",
+    "translate_vn": "thứ mấy"
+  },
+  "word_4_44": {
+    "jp": "〜　から",
+    "spelling": "kara",
+    "translate_vn": "~ từ"
+  },
+  "word_4_45": {
+    "jp": "〜　まで",
+    "spelling": "made",
+    "translate_vn": "~ đến"
+  },
+  "word_4_46": {
+    "jp": "〜　と",
+    "spelling": "to",
+    "translate_vn": "~ và (nối 2 danh từ)"
+  },
+  "word_4_47": {
+    "jp": "しけん",
+    "kanji": "試験",
+    "spelling": "shiken",
+    "translate_vn": "thi, kỳ thi, kiểm tra"
+  },
+  "word_4_48": {
+    "jp": "かいぎ",
+    "kanji": "会議",
+    "spelling": "kaigi",
+    "translate_vn": "cuộc họp, hội nghị"
+  },
+  "word_4_49": {
+    "jp": "えいが",
+    "kanji": "映画",
+    "spelling": "eiga",
+    "translate_vn": "phim, điện ảnh"
+  }
+}

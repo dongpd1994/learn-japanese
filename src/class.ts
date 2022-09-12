@@ -3,6 +3,7 @@ import KATAKANA from './katakana.json';
 import LESSON_1 from './lesson1/lesion';
 import LESSON_2 from './lesson2/lesson';
 import LESSON_3 from './lesson3/lesson';
+import LESSON_4 from './lesson4/lesson';
 
 export const LESSON_JP = {
   ALPHABET: {
@@ -32,6 +33,11 @@ export const LESSON_JP = {
       key: "lesson3",
       title: "Lesson 3",
       source: LESSON_3
+    },
+    LESSION_FOUR: {
+      key: "lesson4",
+      title: "Lesson 4",
+      source: LESSON_4
     }
   }
 }

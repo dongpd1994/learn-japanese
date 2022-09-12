@@ -1,0 +1,26 @@
+{
+  "sentence_4_1": {
+    "jp": "たいへんですね",
+    "kanji":"大変ですね",
+    "spelling": "taihendesune",
+    "translate_vn": "Anh/chị vất vả quá."
+  },
+  "sentence_4_2": {
+    "jp": "ばんごう",
+    "kanji":"番号",
+    "spelling": "bangou",
+    "translate_vn": "số"
+  },
+  "sentence_4_3": {
+    "jp": "なんばん",
+    "kanji":"何番",
+    "spelling": "nanban",
+    "translate_vn": "số mấy"
+  },
+  "sentence_4_4": {
+    "jp": "そちら",
+    "spelling": "sochira",
+    "translate_vn": "phía ông/ phía bà"
+  }
+
+}
