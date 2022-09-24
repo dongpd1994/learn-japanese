@@ -1,0 +1,304 @@
+{
+  "word_5_1": {
+    "jp": "いきます",
+    "kanji": "行きます",
+    "spelling": "ikimasu",
+    "translate_vn": "đi"
+  },
+  "word_5_2": {
+    "jp": "きます",
+    "kanji": "来ます",
+    "spelling": "kimasu",
+    "translate_vn": "đến"
+  },
+  "word_5_3": {
+    "jp": "かえります",
+    "kanji": "帰ります",
+    "spelling": "kaerimasu",
+    "translate_vn": "về"
+  },
+  "word_5_4": {
+    "jp": "がっこう",
+    "kanji": "学校",
+    "spelling": "gakkou",
+    "translate_vn": "trường học"
+  },
+  "word_5_5": {
+    "jp": "スーパー",
+    "spelling": "suupaa",
+    "translate_vn": "siêu thị"
+  },
+  "word_5_6": {
+    "jp": "えき",
+    "kanji": "駅",
+    "spelling": "eki",
+    "translate_vn": "nhà ga"
+  },
+  "word_5_7": {
+    "jp": "ひこうき",
+    "kanji": "飛行機",
+    "spelling": "hikouki",
+    "translate_vn": "máy bay"
+  },
+  "word_5_8": {
+    "jp": "ふね",
+    "kanji": "船",
+    "spelling": "fune",
+    "translate_vn": "thuyền, tàu thuỷ"
+  },
+  "word_5_9": {
+    "jp": "でんしゃ",
+    "kanji": "電車",
+    "spelling": "densha",
+    "translate_vn": "tàu điện"
+  },
+  "word_5_10": {
+    "jp": "ちかてつ",
+    "kanji": "地下鉄",
+    "spelling": "chigatetsu",
+    "translate_vn": "tàu điện ngầm"
+  },
+  "word_5_11": {
+    "jp": "しんかんせん",
+    "kanji": "新幹線",
+    "spelling": "shinkansen",
+    "translate_vn": "tàu Shinkansen"
+  },
+  "word_5_12": {
+    "jp": "バス",
+    "spelling": "basu",
+    "translate_vn": "xe bus"
+  },
+  "word_5_13": {
+    "jp": "タクシー",
+    "spelling": "takushii",
+    "translate_vn": "tắc xi"
+  },
+  "word_5_14": {
+    "jp": "じてんしゃ",
+    "kanji": "自転車",
+    "spelling": "jitensha",
+    "translate_vn": "xe đạp"
+  },
+  "word_5_15": {
+    "jp": "あるいて",
+    "kanji": "歩いて",
+    "spelling": "aruite",
+    "translate_vn": "đi bộ"
+  },
+  "word_5_16": {
+    "jp": "ひと",
+    "kanji": "人",
+    "spelling": "hito",
+    "translate_vn": "người"
+  },
+  "word_5_17": {
+    "jp": "ともだち",
+    "kanji": "友達",
+    "spelling": "tomodachi",
+    "translate_vn": "bạn, bạn bè"
+  },
+  "word_5_18": {
+    "jp": "かれ",
+    "kanji": "彼",
+    "spelling": "kare",
+    "translate_vn": "anh ấy, bạn trai"
+  },
+  "word_5_19": {
+    "jp": "かのじょ",
+    "kanji": "彼女",
+    "spelling": "kanoja",
+    "translate_vn": "cô ấy, bạn gái"
+  },
+  "word_5_20": {
+    "jp": "かぞく",
+    "kanji": "家族",
+    "spelling": "kazoku",
+    "translate_vn": "gia đình"
+  },
+  "word_5_21": {
+    "jp": "ひとりで",
+    "kanji": "一人で",
+    "spelling": "hitoride",
+    "translate_vn": "một mình"
+  },
+  "word_5_22": {
+    "jp": "せんしゅう",
+    "kanji": "先週",
+    "spelling": "senshuu",
+    "translate_vn": "tuần trước"
+  },
+  "word_5_23": {
+    "jp": "こんしゅう",
+    "kanji": "今週",
+    "spelling": "konshuu",
+    "translate_vn": "tuần này"
+  },
+  "word_5_24": {
+    "jp": "らいしゅう",
+    "kanji": "来週",
+    "spelling": "raishuu",
+    "translate_vn": "tuần sau"
+  },
+  "word_5_25": {
+    "jp": "せんげつ",
+    "kanji": "先月",
+    "spelling": "sengetsu",
+    "translate_vn": "tháng trước"
+  },
+  "word_5_26": {
+    "jp": "こんげつ",
+    "kanji": "今月",
+    "spelling": "kongetsu",
+    "translate_vn": "tháng này"
+  },
+  "word_5_27": {
+    "jp": "らいげつ",
+    "kanji": "来月",
+    "spelling": "",
+    "translate_vn": "tháng sau"
+  },
+  "word_5_28": {
+    "jp": "きょねん",
+    "kanji": "去年",
+    "spelling": "kyonen",
+    "translate_vn": "năm ngoái"
+  },
+  "word_5_29": {
+    "jp": "ことし",
+    "kanji": "今年",
+    "spelling": "kotoshi",
+    "translate_vn": "năm nay"
+  },
+  "word_5_30": {
+    "jp": "らいねん",
+    "kanji": "来年",
+    "spelling": "rainen",
+    "translate_vn": "năm sau"
+  },
+  "word_5_31": {
+    "jp": "ー　ねん",
+    "kanji": "ー　年",
+    "spelling": "nen",
+    "translate_vn": "năm"
+  },
+  "word_5_32": {
+    "jp": "なんねん",
+    "kanji": "何年",
+    "spelling": "nannen",
+    "translate_vn": "mấy năm"
+  },
+  "word_5_33": {
+    "jp": "ー　がつ",
+    "kanji": "ー　月",
+    "spelling": "gatsu",
+    "translate_vn": "tháng"
+  },
+  "word_5_34": {
+    "jp": "なんがつ",
+    "kanji": "何月",
+    "spelling": "nangatsu",
+    "translate_vn": "tháng mấy"
+  },
+  "word_5_35": {
+    "jp": "ついたち",
+    "kanji": "一日",
+    "spelling": "tsuitachi",
+    "translate_vn": "mồng 1"
+  },
+  "word_5_36": {
+    "jp": "ふつか",
+    "kanji": "二日",
+    "spelling": "futsuka",
+    "translate_vn": "mồng 2"
+  },
+  "word_5_37": {
+    "jp": "みっか",
+    "kanji": "三日",
+    "spelling": "mikka",
+    "translate_vn": "mồng 3"
+  },
+  "word_5_38": {
+    "jp": "よっか",
+    "kanji": "四日",
+    "spelling": "yokka",
+    "translate_vn": "mồng 4"
+  },
+  "word_5_39": {
+    "jp": "いつか",
+    "kanji": "五日",
+    "spelling": "itsuka",
+    "translate_vn": "mồng 5"
+  },
+  "word_5_40": {
+    "jp": "むいか",
+    "kanji": "六日",
+    "spelling": "muika",
+    "translate_vn": "mồng 6"
+  },
+  "word_5_41": {
+    "jp": "なのか",
+    "kanji": "七日",
+    "spelling": "nanoka",
+    "translate_vn": "mồng 7"
+  },
+  "word_5_42": {
+    "jp": "ようか",
+    "kanji": "八日",
+    "spelling": "youka",
+    "translate_vn": "mồng 8"
+  },
+  "word_5_43": {
+    "jp": "ここのか",
+    "kanji": "九日",
+    "spelling": "kokonoka",
+    "translate_vn": "mồng 9"
+  },
+  "word_5_44": {
+    "jp": "とおか",
+    "kanji": "十日",
+    "spelling": "tooka",
+    "translate_vn": "mồng 10"
+  },
+  "word_5_45": {
+    "jp": "じゅうよっか",
+    "kanji": "十四日",
+    "spelling": "juuyokka",
+    "translate_vn": "ngày 14"
+  },
+  "word_5_46": {
+    "jp": "はつか",
+    "kanji": "二十日",
+    "spelling": "hatsuka",
+    "translate_vn": "ngày 20"
+  },
+  "word_5_47": {
+    "jp": "にじゅうよっか",
+    "kanji": "二十四日",
+    "spelling": "nijuuyokka",
+    "translate_vn": "ngày 24"
+  },
+  "word_5_48": {
+    "jp": "ー　にち",
+    "kanji": "ー　日",
+    "spelling": "nichi",
+    "translate_vn": "ngày"
+  },
+  "word_5_49": {
+    "jp": "なんにち",
+    "kanji": "何日",
+    "spelling": "nannichi",
+    "translate_vn": "ngày mấy, ngày bao nhiêu, mấy ngày, bao nhiêu ngày"
+  },
+  "word_5_50": {
+    "jp": "いつ",
+    "spelling": "itsu",
+    "translate_vn": "bao giờ"
+  },
+  "word_5_51": {
+    "jp": "たんじょうび",
+    "kanji": "誕生日",
+    "spelling": "tanjoubi",
+    "translate_vn": "sinh nhật"
+  }
+}
