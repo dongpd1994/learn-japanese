@@ -1,0 +1,47 @@
+{
+  "sentence_5_1": {
+    "jp": "そうですね",
+    "spelling": "soudesune",
+    "translate_vn": "ừ, nhỉ"
+  },
+  "sentence_5_2": {
+    "jp": "「　どうも　」ありがとう　ございました",
+    "spelling": "[doumo]arigatou gozaimashita",
+    "translate_vn": "xin cám ơn anh/chị rất nhiều"
+  },
+  "sentence_5_3": {
+    "jp": "どう　いたしまして",
+    "spelling": "dou itashimashite",
+    "translate_vn": "không có gì đâu ( anh/ chị đừng bận tâm )"
+  },
+  "sentence_5_4": {
+    "jp": "ー　ばんせん",
+    "kanji": "ー　番線",
+    "spelling": "bansen",
+    "translate_vn": "sân ga số -"
+  },
+  "sentence_5_5": {
+    "jp": "つぎの",
+    "kanji": "次の",
+    "spelling": "tsugano",
+    "translate_vn": "tiếp theo"
+  },
+  "sentence_5_6": {
+    "jp": "ふつう",
+    "kanji": "普通",
+    "spelling": "futsuu",
+    "translate_vn": "tàu thường ( dừng cả ở các ga lẻ )"
+  },
+  "sentence_5_7": {
+    "jp": "きゅうこう",
+    "kanji": "急行",
+    "spelling": "kyuukou",
+    "translate_vn": "tàu tốc hành"
+  },
+  "sentence_5_8": {
+    "jp": "とっきゅう",
+    "kanji": "特急",
+    "spelling": "tokkyuu",
+    "translate_vn": "tàu tốc hành đặc biệt"
+  }
+}
