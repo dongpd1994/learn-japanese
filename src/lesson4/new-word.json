@@ -3,37 +3,43 @@
     "jp": "おきます",
     "kanji": "起きます",
     "spelling": "okimasu",
-    "translate_vn": "dậy, thức dậy"
+    "translate_vn": "dậy, thức dậy",
+    "type": "verb"
   },
   "word_4_2": {
     "jp": "ねます",
     "kanji": "寝ます",
     "spelling": "nemasu",
-    "translate_vn": "ngủ, đi ngủ"
+    "translate_vn": "ngủ, đi ngủ",
+    "type": "verb"
   },
   "word_4_3": {
     "jp": "はたらきます",
     "kanji": "働きます",
     "spelling": "hatarakimasu",
-    "translate_vn": "làm việc"
+    "translate_vn": "làm việc",
+    "type": "verb"
   },
   "word_4_4": {
     "jp": "やすみます",
     "kanji": "休みます",
     "spelling": "yasumimasu",
-    "translate_vn": "nghỉ ngơi"
+    "translate_vn": "nghỉ ngơi",
+    "type": "verb"
   },
   "word_4_5": {
     "jp": "べんきょうします",
     "kanji": "勉強します",
     "spelling": "benkyoushimasu",
-    "translate_vn": "học"
+    "translate_vn": "học",
+    "type": "verb"
   },
   "word_4_6": {
     "jp": "おわります",
     "kanji": "終わります",
     "spelling": "owarimasu",
-    "translate_vn": "hết, kết thúc, xong"
+    "translate_vn": "hết, kết thúc, xong",
+    "type": "verb"
   },
   "word_4_7": {
     "jp": "デパート",

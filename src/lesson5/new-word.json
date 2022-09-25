@@ -3,19 +3,22 @@
     "jp": "いきます",
     "kanji": "行きます",
     "spelling": "ikimasu",
-    "translate_vn": "đi"
+    "translate_vn": "đi",
+    "type": "verb"
   },
   "word_5_2": {
     "jp": "きます",
     "kanji": "来ます",
     "spelling": "kimasu",
-    "translate_vn": "đến"
+    "translate_vn": "đến",
+    "type": "verb"
   },
   "word_5_3": {
     "jp": "かえります",
     "kanji": "帰ります",
     "spelling": "kaerimasu",
-    "translate_vn": "về"
+    "translate_vn": "về",
+    "type": "verb"
   },
   "word_5_4": {
     "jp": "がっこう",

@@ -3,66 +3,77 @@
     "jp": "たべます",
     "kanji": "食べます",
     "spelling": "tabemasu",
-    "translate_vn": "ăn"
+    "translate_vn": "ăn",
+    "type": "verb"
   },
   "word_6_2": {
     "jp": "のみます",
     "kanji": "飲みます",
     "spelling": "nomimasu",
-    "translate_vn": "uống"
+    "translate_vn": "uống",
+    "type": "verb"
   },
   "word_6_3": {
     "jp": "すいます",
     "kanji": "吸います",
     "spelling": "suimasu",
-    "translate_vn": "hút"
+    "translate_vn": "hút",
+    "type": "verb"
   },
   "word_6_4": {
     "jp": "みます",
     "kanji": "見ます",
     "spelling": "mimasu",
-    "translate_vn": "nhìn, xem"
+    "translate_vn": "nhìn, xem",
+    "type": "verb"
   },
   "word_6_5": {
     "jp": "ききます",
     "kanji": "聞きます",
     "spelling": "kikimasu",
-    "translate_vn": "nghe"
+    "translate_vn": "nghe",
+    "type": "verb"
   },
   "word_6_6": {
     "jp": "よみます",
     "kanji": "読みます",
     "spelling": "yomimasu",
-    "translate_vn": "đọc"
+    "translate_vn": "đọc",
+    "type": "verb"
   },
   "word_6_7": {
     "jp": "かきます",
     "kanji": "書きます",
     "spelling": "kakimasu",
-    "translate_vn": "viết"
+    "translate_vn": "viết",
+    "type": "verb"
   },
   "word_6_8": {
     "jp": "かいます",
     "kanji": "買います",
     "spelling": "kaimasu",
-    "translate_vn": "mua"
+    "translate_vn": "mua",
+    "type": "verb"
   },
   "word_6_9": {
     "jp": "とります",
     "kanji": "撮ります",
     "spelling": "torimasu",
-    "translate_vn": "chụp"
+    "translate_vn": "chụp",
+    "type": "verb"
   },
   "word_6_10": {
     "jp": "します",
     "spelling": "shimasu",
-    "translate_vn": "làm, chơi"
+    "translate_vn": "làm, chơi",
+    "type": "verb"
   },
   "word_6_11": {
     "jp": "あいます",
     "kanji": "会います",
     "spelling": "aimasu",
-    "translate_vn": "gặp"
+    "translate_vn": "gặp",
+    "type": "verb"
   },
   "word_6_12": {
     "jp": "ごはん",
