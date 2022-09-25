@@ -5,6 +5,8 @@ import LESSON_2 from "./lesson2/lesson";
 import LESSON_3 from "./lesson3/lesson";
 import LESSON_4 from "./lesson4/lesson";
 import LESSON_5 from "./lesson5/lesson";
+import LESSON_6 from "./lesson6/lesson";
+import LESSON_7 from "./lesson7/lesson";
 
 export const LESSON_JP = {
   ALPHABET: {
@@ -44,6 +46,16 @@ export const LESSON_JP = {
       key: "lesson5",
       title: "Lesson 5",
       source: LESSON_5,
+    },
+    LESSION_SIX: {
+      key: "lesson6",
+      title: "Lesson 6",
+      source: LESSON_6,
+    },
+    LESSION_SEVEN: {
+      key: "lesson7",
+      title: "Lesson 7",
+      source: LESSON_7,
     },
   },
 };

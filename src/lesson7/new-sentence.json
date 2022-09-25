@@ -1,0 +1,39 @@
+{
+  "sentence_7_1": {
+    "jp": "「〜、」すてきですね",
+    "spelling": "sutekidesune",
+    "translate_vn": "~ hay nhỉ/ đẹp nhỉ"
+  },
+  "sentence_7_2": {
+    "jp": "いらっしゃい",
+    "spelling": "irasshai",
+    "translate_vn": "Chào mừng anh/chị đã tới chơi."
+  },
+  "sentence_7_3": {
+    "jp": "どうぞ　おあがり　ください",
+    "kanji": "どうぞ　お上がり　ください",
+    "spelling": "douzo oagari kudasai",
+    "translate_vn": "Mời anh/chị vào."
+  },
+  "sentence_7_4": {
+    "jp": "しつれいします",
+    "kanji": "失礼します",
+    "spelling": "shitsureishimasu",
+    "translate_vn": "Xin phép tôi vào./ Xin phép ~ ( dùng khi bước vào nhà người khác )"
+  },
+  "sentence_7_5": {
+    "jp": "「〜は」いかがですか",
+    "spelling": "[ha] ikagadesuka",
+    "translate_vn": "Anh/chị dùng ~ nhé? (dùng khi mời ai đó cái gì)"
+  },
+  "sentence_7_6": {
+    "jp": "いただきます",
+    "spelling": "itadakimasu",
+    "translate_vn": "Mời anh/chị dùng ~. (cách nói dùng trước khi ăn hoặc uống)"
+  },
+  "sentence_7_7": {
+    "jp": "ごちそうさま「でした」",
+    "spelling": "gochisousama[deshita]",
+    "translate_vn": "Xin cám ơn anh/chị đã đãi tôi bữa ăn ngon."
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "word_6_1": {
+    "jp": "たべます",
+    "kanji": "食べます",
+    "spelling": "tabemasu",
+    "translate_vn": "ăn"
+  },
+  "word_6_2": {
+    "jp": "のみます",
+    "kanji": "飲みます",
+    "spelling": "nomimasu",
+    "translate_vn": "uống"
+  },
+  "word_6_3": {
+    "jp": "すいます",
+    "kanji": "吸います",
+    "spelling": "suimasu",
+    "translate_vn": "hút"
+  },
+  "word_6_4": {
+    "jp": "みます",
+    "kanji": "見ます",
+    "spelling": "mimasu",
+    "translate_vn": "nhìn, xem"
+  },
+  "word_6_5": {
+    "jp": "ききます",
+    "kanji": "聞きます",
+    "spelling": "kikimasu",
+    "translate_vn": "nghe"
+  },
+  "word_6_6": {
+    "jp": "よみます",
+    "kanji": "読みます",
+    "spelling": "yomimasu",
+    "translate_vn": "đọc"
+  },
+  "word_6_7": {
+    "jp": "かきます",
+    "kanji": "書きます",
+    "spelling": "kakimasu",
+    "translate_vn": "viết"
+  },
+  "word_6_8": {
+    "jp": "かいます",
+    "kanji": "買います",
+    "spelling": "kaimasu",
+    "translate_vn": "mua"
+  },
+  "word_6_9": {
+    "jp": "とります",
+    "kanji": "撮ります",
+    "spelling": "torimasu",
+    "translate_vn": "chụp"
+  },
+  "word_6_10": {
+    "jp": "します",
+    "spelling": "shimasu",
+    "translate_vn": "làm, chơi"
+  },
+  "word_6_11": {
+    "jp": "あいます",
+    "kanji": "会います",
+    "spelling": "aimasu",
+    "translate_vn": "gặp"
+  },
+  "word_6_12": {
+    "jp": "ごはん",
+    "spelling": "gohan",
+    "translate_vn": "bữa ăn, cơm"
+  },
+  "word_6_13": {
+    "jp": "あさごはん",
+    "kanji": "朝ごはん",
+    "spelling": "asagohan",
+    "translate_vn": "cơm sáng, bữa sáng"
+  },
+  "word_6_14": {
+    "jp": "ひるごはん",
+    "kanji": "昼ごはん",
+    "spelling": "hirugohan",
+    "translate_vn": "cơm trưa, bữa trưa"
+  },
+  "word_6_15": {
+    "jp": "ばんごはん",
+    "kanji": "晩ごはん",
+    "spelling": "bangohan",
+    "translate_vn": "cơm tối, bữa tối"
+  },
+  "word_6_16": {
+    "jp": "パン",
+    "spelling": "pan",
+    "translate_vn": "bánh mỳ"
+  },
+  "word_6_17": {
+    "jp": "たまご",
+    "kanji": "卵",
+    "spelling": "tamago",
+    "translate_vn": "trứng"
+  },
+  "word_6_18": {
+    "jp": "にく",
+    "kanji": "肉",
+    "spelling": "niku",
+    "translate_vn": "thịt"
+  },
+  "word_6_19": {
+    "jp": "さかな",
+    "kanji": "魚",
+    "spelling": "sakana",
+    "translate_vn": "cá"
+  },
+  "word_6_20": {
+    "jp": "やさい",
+    "kanji": "野菜",
+    "spelling": "yasai",
+    "translate_vn": "rau"
+  },
+  "word_6_21": {
+    "jp": "くだもの",
+    "kanji": "果物",
+    "spelling": "kudamono",
+    "translate_vn": "hoa quả, trái cây"
+  },
+  "word_6_22": {
+    "jp": "みず",
+    "kanji": "水",
+    "spelling": "mizu",
+    "translate_vn": "nước"
+  },
+  "word_6_23": {
+    "jp": "おちゃ",
+    "kanji": "お茶",
+    "spelling": "ocha",
+    "translate_vn": "trà, trà xanh"
+  },
+  "word_6_24": {
+    "jp": "こうちゃ",
+    "kanji": "紅茶",
+    "spelling": "koucha",
+    "translate_vn": "trà đen"
+  },
+  "word_6_25": {
+    "jp": "ぎゅうにゅう",
+    "kanji": "牛乳",
+    "spelling": "kyuunyuu",
+    "translate_vn": "sữa bò"
+  },
+  "word_6_26": {
+    "jp": "ミルク",
+    "spelling": "miruku",
+    "translate_vn": "sữa"
+  },
+  "word_6_27": {
+    "jp": "ジュース",
+    "spelling": "juusu",
+    "translate_vn": "nước hoa quả"
+  },
+  "word_6_28": {
+    "jp": "ビール",
+    "spelling": "biiru",
+    "translate_vn": "bia"
+  },
+  "word_6_29": {
+    "jp": "「お」さけ",
+    "kanji": "「お」酒",
+    "spelling": "[o] sake",
+    "translate_vn": "rượu"
+  },
+  "word_6_30": {
+    "jp": "たばこ",
+    "spelling": "tabako",
+    "translate_vn": "thuốc lá"
+  },
+  "word_6_31": {
+    "jp": "てがみ",
+    "kanji": "手紙",
+    "spelling": "tegami",
+    "translate_vn": "thư"
+  },
+  "word_6_32": {
+    "jp": "レポート",
+    "spelling": "repooto",
+    "translate_vn": "báo cáo"
+  },
+  "word_6_33": {
+    "jp": "しゃしん",
+    "kanji": "写真",
+    "spelling": "shashin",
+    "translate_vn": "ảnh"
+  },
+  "word_6_34": {
+    "jp": "ビデオ",
+    "spelling": "bideo",
+    "translate_vn": "băng video"
+  },
+  "word_6_35": {
+    "jp": "みせ",
+    "kanji": "店",
+    "spelling": "mise",
+    "translate_vn": "cửa hàng, tiệm"
+  },
+  "word_6_36": {
+    "jp": "にわ",
+    "kanji": "庭",
+    "spelling": "niwa",
+    "translate_vn": "vườn"
+  },
+  "word_6_37": {
+    "jp": "しゅくだい",
+    "kanji": "宿題",
+    "spelling": "shukudai",
+    "translate_vn": "bài tập về nhà"
+  },
+  "word_6_38": {
+    "jp": "テニス",
+    "spelling": "tenisu",
+    "translate_vn": "quần vợt"
+  },
+  "word_6_39": {
+    "jp": "サッカー",
+    "spelling": "sakkaa",
+    "translate_vn": "bóng đá"
+  },
+  "word_6_40": {
+    "jp": "「お」はなみ",
+    "kanji": "「お」花見",
+    "spelling": "[o]hanami",
+    "translate_vn": "ngắm hoa anh đào"
+  },
+  "word_6_41": {
+    "jp": "なに",
+    "kanji": "何",
+    "spelling": "nani",
+    "translate_vn": "cái gì, gì"
+  },
+  "word_6_42": {
+    "jp": "いっしょに",
+    "spelling": "isshoni",
+    "translate_vn": "cùng nhau"
+  },
+  "word_6_43": {
+    "jp": "ちょっと",
+    "spelling": "chotto",
+    "translate_vn": "một chút"
+  },
+  "word_6_44": {
+    "jp": "いつも",
+    "spelling": "itsumo",
+    "translate_vn": "luôn luôn, lúc nào cũng"
+  },
+  "word_6_45": {
+    "jp": "ときどき",
+    "kanji": "時々",
+    "spelling": "tokidoki",
+    "translate_vn": "thỉnh thoảng"
+  },
+  "word_6_46": {
+    "jp": "それから",
+    "spelling": "sorekara",
+    "translate_vn": "sau đó, tiếp theo"
+  },
+  "word_6_47": {
+    "jp": "ええ",
+    "spelling": "ee",
+    "translate_vn": "vâng, được"
+  },
+  "word_6_48": {
+    "jp": "いいですね",
+    "spelling": "iidesune",
+    "translate_vn": "Được đấy nhỉ/ hay quá"
+  },
+  "word_6_49": {
+    "jp": "わかりました",
+    "spelling": "wakarimashita",
+    "translate_vn": "Tôi hiểu rồi/ Vâng ạ"
+  }
+}
